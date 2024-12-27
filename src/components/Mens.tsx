@@ -28,7 +28,7 @@ const Mens: React.FC = () => {
     {
       src: "/m4.png",
       title: "Veze",
-      description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      description: "Lorem ipsumh dolor, sit amet consectetur adipisicing elit.",
       quantity: 1,
     },
     {
