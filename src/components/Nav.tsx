@@ -1,5 +1,5 @@
 "use client";
-import 'boxicons/css/boxicons.min.css';
+// import 'boxicons/css/boxicons.min.css';
 import { useState } from "react";
 import Link from "next/link";
 
